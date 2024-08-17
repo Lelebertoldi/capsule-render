@@ -52,6 +52,7 @@
 18. [Desc Align - Y](#descaligny)
 19. [Rotate](#rotate)
 20. [Demo](#demo)
+21. [Tabela de cores](https://celke.com.br/artigo/tabela-de-cores-html-nome-hexadecimal-rgb)
 
 Any of Idea -> [Idea-Issue](https://github.com/kyechan99/capsule-render/labels/Idea) or [PR](https://github.com/kyechan99/capsule-render/pulls)
 
